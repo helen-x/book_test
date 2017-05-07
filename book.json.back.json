@@ -21,18 +21,19 @@
         "-livereload",
         "search-plus@^0.0.11",
         "splitter@^0.0.8",
+       
         "edit-link@^2.0.2",
-        "tbfed-pagefooter@^0.0.1", 
-        "anchor-navigation-ex@0.1.8",
-               "github-buttons@2.1.0"
+ 
+        "tbfed-pagefooter@^0.0.1"
+ 
      
     ],
     "pluginsConfig": {
       
         "sharing": {
             "weibo": true,
-            "facebook": false,
-            "twitter": false,
+            "facebook": true,
+            "twitter": true,
             "google": false,
             "instapaper": false,
             "vk": false,
@@ -49,26 +50,11 @@
             "modify_label": "该文件修订时间：",
             "modify_format": "YYYY-MM-DD HH:mm:ss"
         },
-        
-	    "anchor-navigation-ex": {
-            "isRewritePageTitle": true,
-            "isShowTocTitleIcon": true,
-            "tocLevel1Icon": "fa fa-hand-o-right",
-            "tocLevel2Icon": "fa fa-hand-o-right",
-            "tocLevel3Icon": "fa fa-hand-o-right"
-        },
-	 
+       
+    
         "edit-link": {
             "base": "https://github.com/helen-x/book_test/edit/master",
             "label": "Edit This Page"
-        },
-        
-        "github-buttons": {
-            "repo": "helen-x/book_test",
-            "types": [
-                "star"
-            ],
-            "size": "small"
         }
     }
 }
