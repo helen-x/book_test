@@ -2,3 +2,10 @@
 
 edited by gitbook
 
+```java  
+public void test(){
+
+}
+
+```  
+

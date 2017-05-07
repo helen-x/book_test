@@ -24,7 +24,9 @@
         "edit-link@^2.0.2",
         "tbfed-pagefooter@^0.0.1", 
         "anchor-navigation-ex@0.1.8",
-               "github-buttons@2.1.0"
+        "github-buttons@2.1.0",
+        "ace@^0.3.2"
+
      
     ],
     "pluginsConfig": {
